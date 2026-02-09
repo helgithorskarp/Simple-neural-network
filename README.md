@@ -1,4 +1,4 @@
-## 🧠 Neural Network – MNIST Image Classifier
+## Neural Network – MNIST Image Classifier
 
 **Course Project – CS229 (Machine Learning)**
 
